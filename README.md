@@ -3,7 +3,7 @@
 
 ## Goals
 
-Identify what factors from the World Bank API database relate to the vaccination percentage for coutries around the world.
+Identify what factors from the World Bank API database relate to the vaccination percentage for countries around the world.
 
 ## Extraction
 Kaggle CSV of world vaccination progress cribbed from the Our World in Data Github Repository:
